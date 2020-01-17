@@ -21,7 +21,7 @@ class App extends Component {
               target="_blank"
               rel="noopener noreferrer"
             >
-              <strong>React</strong> Workspaces
+              <strong>React</strong> Workspacess
             </a>
           </h1>
           <h2>Hot Reload Your Workspaces</h2>
