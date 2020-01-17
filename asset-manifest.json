@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/react-workspaces-playground/static/css/main.4fd72fe6.chunk.css",
+    "main.js": "/react-workspaces-playground/static/js/main.b884f619.chunk.js",
+    "main.js.map": "/react-workspaces-playground/static/js/main.b884f619.chunk.js.map",
+    "runtime-main.js": "/react-workspaces-playground/static/js/runtime-main.949719ac.js",
+    "runtime-main.js.map": "/react-workspaces-playground/static/js/runtime-main.949719ac.js.map",
+    "static/js/2.19e3a641.chunk.js": "/react-workspaces-playground/static/js/2.19e3a641.chunk.js",
+    "static/js/2.19e3a641.chunk.js.map": "/react-workspaces-playground/static/js/2.19e3a641.chunk.js.map",
+    "index.html": "/react-workspaces-playground/index.html",
+    "precache-manifest.c42432be7126bb583c463497f5dce064.js": "/react-workspaces-playground/precache-manifest.c42432be7126bb583c463497f5dce064.js",
+    "service-worker.js": "/react-workspaces-playground/service-worker.js",
+    "static/css/main.4fd72fe6.chunk.css.map": "/react-workspaces-playground/static/css/main.4fd72fe6.chunk.css.map",
+    "static/js/2.19e3a641.chunk.js.LICENSE": "/react-workspaces-playground/static/js/2.19e3a641.chunk.js.LICENSE",
+    "static/media/ReactLogo.svg": "/react-workspaces-playground/static/media/ReactLogo.2c813d88.svg",
+    "static/media/YarnCat.svg": "/react-workspaces-playground/static/media/YarnCat.42730579.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.949719ac.js",
+    "static/js/2.19e3a641.chunk.js",
+    "static/css/main.4fd72fe6.chunk.css",
+    "static/js/main.b884f619.chunk.js"
+  ]
+}
