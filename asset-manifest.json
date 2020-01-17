@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/workspaces-playground/static/css/main.4fd72fe6.chunk.css",
-    "main.js": "/workspaces-playground/static/js/main.f6c2e231.chunk.js",
-    "main.js.map": "/workspaces-playground/static/js/main.f6c2e231.chunk.js.map",
-    "runtime-main.js": "/workspaces-playground/static/js/runtime-main.0452c374.js",
-    "runtime-main.js.map": "/workspaces-playground/static/js/runtime-main.0452c374.js.map",
-    "static/js/2.19e3a641.chunk.js": "/workspaces-playground/static/js/2.19e3a641.chunk.js",
-    "static/js/2.19e3a641.chunk.js.map": "/workspaces-playground/static/js/2.19e3a641.chunk.js.map",
-    "index.html": "/workspaces-playground/index.html",
-    "precache-manifest.987a93bd253bad9422df4b1830b705a3.js": "/workspaces-playground/precache-manifest.987a93bd253bad9422df4b1830b705a3.js",
-    "service-worker.js": "/workspaces-playground/service-worker.js",
-    "static/css/main.4fd72fe6.chunk.css.map": "/workspaces-playground/static/css/main.4fd72fe6.chunk.css.map",
-    "static/js/2.19e3a641.chunk.js.LICENSE": "/workspaces-playground/static/js/2.19e3a641.chunk.js.LICENSE",
-    "static/media/ReactLogo.svg": "/workspaces-playground/static/media/ReactLogo.2c813d88.svg",
-    "static/media/YarnCat.svg": "/workspaces-playground/static/media/YarnCat.42730579.svg"
+    "main.css": "/react-workspaces-playground/static/css/main.4fd72fe6.chunk.css",
+    "main.js": "/react-workspaces-playground/static/js/main.2dd442d2.chunk.js",
+    "main.js.map": "/react-workspaces-playground/static/js/main.2dd442d2.chunk.js.map",
+    "runtime-main.js": "/react-workspaces-playground/static/js/runtime-main.4c9d4721.js",
+    "runtime-main.js.map": "/react-workspaces-playground/static/js/runtime-main.4c9d4721.js.map",
+    "static/js/2.d1c0afa5.chunk.js": "/react-workspaces-playground/static/js/2.d1c0afa5.chunk.js",
+    "static/js/2.d1c0afa5.chunk.js.map": "/react-workspaces-playground/static/js/2.d1c0afa5.chunk.js.map",
+    "index.html": "/react-workspaces-playground/index.html",
+    "precache-manifest.53a220a2ded99793814e994be23d74d0.js": "/react-workspaces-playground/precache-manifest.53a220a2ded99793814e994be23d74d0.js",
+    "service-worker.js": "/react-workspaces-playground/service-worker.js",
+    "static/css/main.4fd72fe6.chunk.css.map": "/react-workspaces-playground/static/css/main.4fd72fe6.chunk.css.map",
+    "static/js/2.d1c0afa5.chunk.js.LICENSE": "/react-workspaces-playground/static/js/2.d1c0afa5.chunk.js.LICENSE",
+    "static/media/ReactLogo.svg": "/react-workspaces-playground/static/media/ReactLogo.2c813d88.svg",
+    "static/media/YarnCat.svg": "/react-workspaces-playground/static/media/YarnCat.42730579.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.0452c374.js",
-    "static/js/2.19e3a641.chunk.js",
+    "static/js/runtime-main.4c9d4721.js",
+    "static/js/2.d1c0afa5.chunk.js",
     "static/css/main.4fd72fe6.chunk.css",
-    "static/js/main.f6c2e231.chunk.js"
+    "static/js/main.2dd442d2.chunk.js"
   ]
 }
